@@ -30,7 +30,7 @@ public class tugas {
                 bEast.addActionListener(e -> label.setText("Tombol di EAST diklik!"));
                 bCenter.addActionListener(e -> label.setText("Tombol di CENTER diklik!"));
 
-                frame.add(bWest, BorderLayout.WEST);
+                frame.add(bWest, BorderLayout.WEST);    
                 frame.add(bEast, BorderLayout.EAST);
                 frame.add(bCenter, BorderLayout.CENTER);
 

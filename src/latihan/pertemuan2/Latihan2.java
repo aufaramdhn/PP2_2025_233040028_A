@@ -7,7 +7,7 @@ import java.awt.event.ActionEvent;
 
 public class Latihan2 {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Contoh Latihan 2");
+        JFrame frame = new JFrame("Konversi celcius ke fahrenheit");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 200);
         frame.setLayout(new GridLayout(2, 3, 10, 10));

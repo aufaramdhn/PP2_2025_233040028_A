@@ -5,7 +5,7 @@ import javax.swing.*;
 
 public class Latihan1 {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Contoh BorderLayout");
+        JFrame frame = new JFrame("Kalkulator");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 400);
 
